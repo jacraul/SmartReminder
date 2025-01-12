@@ -85,7 +85,7 @@ class WeatherService : Service() {
     private fun fetchWeather() {
         CoroutineScope(Dispatchers.IO).launch {
             try {
-                val apiKey = "46e5f9de4cf414943edc59eea8cb84e4"
+                val apiKey = ""
                 val city = "Bucharest"
                 val url = "https://api.openweathermap.org/data/2.5/weather?q=$city&APPID=$apiKey&units=metric"
 
