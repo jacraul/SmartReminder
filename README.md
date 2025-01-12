@@ -140,19 +140,6 @@
 
 ---
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/SmartReminder.git
-   ```
-2. Open the project in Android Studio.
-3. Configure the APIs:
-   - Add your OpenWeather API key to the appropriate file.
-4. Build and run the application on an emulator or physical device.
-
----
-
 ## Future Enhancements
 
 - Add customizable notification intervals.
