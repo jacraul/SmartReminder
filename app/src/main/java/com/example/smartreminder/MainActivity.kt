@@ -86,7 +86,7 @@ class MainActivity : AppCompatActivity() {
         // fetch and display weather
         CoroutineScope(Dispatchers.IO).launch {
             try {
-                val apiKey = "46e5f9de4cf414943edc59eea8cb84e4" // Your OpenWeather API key
+                val apiKey = "" // Your OpenWeather API key
                 val city = "Bucharest" // Desired city
                 val url = "https://api.openweathermap.org/data/2.5/weather?q=$city&APPID=$apiKey&units=metric"
 
