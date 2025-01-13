@@ -153,8 +153,4 @@
 - Tudor-Neculai Bâlbă
 - Raul-Anton Jac
 
----
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
