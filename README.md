@@ -4,6 +4,8 @@
 **Developed by:** Tudor-Neculai Bâlbă & Raul-Anton Jac  
 **Group:** 1231EA  
 
+**Full Code:** [GitHUB](https://github.com/jacraul/SmartReminder)
+
 ---
 
 ## Introduction
